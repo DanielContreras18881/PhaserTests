@@ -72,3 +72,8 @@ If something is out of date, please make an Issue or a Pull Request and I'll upd
 [Download]: 		https://code.visualstudio.com/
 [localhost:5858]:	localhost:5858
 [node-static]:		https://github.com/cloudhead/node-static
+
+
+git remote add git
+git push -u origin master
+git push -u git master
