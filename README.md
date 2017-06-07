@@ -75,5 +75,8 @@ If something is out of date, please make an Issue or a Pull Request and I'll upd
 
 
 git remote add git
+
+git remote update
+
 git push -u origin master
 git push -u git master
