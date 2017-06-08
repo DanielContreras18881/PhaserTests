@@ -6,7 +6,9 @@
   "repository": "",
   "scripts": {
     "compile:ts": "tsc --outFile ./bin/js/game.js",
-    "inst": "npm install"
+    "inst": "npm install",
+    "toGit": "git push -uf git master",
+    "toBit": "git push -uf origin master"
   },
   "author": "Fatir Ahmad",
   "license": "MIT",
